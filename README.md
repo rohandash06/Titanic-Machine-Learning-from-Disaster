@@ -1,2 +1,2 @@
-# Titanic-Machine-Learning-from-Disaster-L
+# Titanic-Machine-Learning-from-Disaster
 Kaggle Beginners CP
